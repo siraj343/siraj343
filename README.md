@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am Siraj Khan
 🔭 I'm currently working on **Data Structures & Algorithms (C++)** and **Full Stack Web Development**.<br><br>👯 I'm looking to collaborate on **open-source projects and beginner-friendly web development projects**.<br><br>🤝 I'm looking for help with **system design, backend development, and writing clean, scalable code**.<br><br>🌱 I'm currently learning **Data Structures & Algorithms, JavaScript**.<br><br>💬 Ask me about **C++, JavaScript, DSA, Git, GitHub, and Web Development**.<br><br>⚡ Fun fact: **I enjoy turning concepts into projects and believe consistency beats intensity.**<br>
 
 
