@@ -1,5 +1,4 @@
-# 💫 Hi, I am Siraj Khan
-🔭 I'm currently working on **Data Structures & Algorithms** and **MERN Stack**.<br><br>👯 I'm looking to collaborate on **open-source projects and beginner-friendly web development projects**.<br><br>🤝 I'm looking for help with **system design, backend development, and writing clean, scalable code**.<br><br>🌱 I'm currently learning **Data Structures & Algorithms, JavaScript**.<br><br>💬 Ask me about **C++, JavaScript, DSA, Git, GitHub, and Web Development**.<br><br>⚡ Fun fact: **I enjoy turning concepts into projects and believe consistency beats intensity.**<br>
+# 👋 Hi, I'm Siraj Khan <br><br> 🎯 Focused on **Data Structures & Algorithms in C++** and **AI Engineering**.<br><br> 🌱 Currently learning:<br>- C++ and problem-solving through DSA<br>- AI Engineering and Large Language Models (LLMs)<br>- Building AI projects using Python and Ollama<br><br> 🛠️ Tech I'm working with:<br>- C++<br>- Python<br>- Git & GitHub<br>- Ollama<br><br> 🚀 My Goals:<br>- Strengthen problem-solving skills through consistent DSA practice<br>- Build practical AI projects<br>- Understand how AI systems work by building them from scratch<br><br> ⚡ I believe consistency beats intensity.
 
 
 ## 🌐 Socials:
